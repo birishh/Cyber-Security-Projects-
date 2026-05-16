@@ -1,14 +1,29 @@
-# Cyber-Security-Projects-# Cybersecurity Projects
+# Cybersecurity Projects
 
 This repository contains beginner cybersecurity projects built using Python.
 
-The goal is to learn basic cybersecurity concepts such as password security, hashing, and network scanning.
+The goal of these projects is to practice and demonstrate basic cybersecurity concepts such as:
+- Password security
+- Network scanning
+- File integrity verification
 
-## Current Project
-- Password Strength Checker
+## Projects Included
+
+### 1. Password Strength Checker
+Checks password complexity using:
+- Length
+- Uppercase/lowercase letters
+- Numbers
+- Special characters
+
+### 2. Port Scanner
+Scans open ports on a target host.
+
+### 3. File Integrity Checker
+Uses SHA-256 hashing to detect file modifications.
 
 ## Technologies Used
 - Python
 
 ## Purpose
-This repo is part of my preparation for a cybersecurity summer camp.
+This repository was created as part of my preparation for cybersecurity learning and summer camp applications.
